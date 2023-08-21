@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left:2rem;
+    margin-right:2rem;
+    
+
+}
+.nav-items{
+    padding: 0;
+    display: flex;
+    list-style: none;
+    /* background-color: #683b2b; */
+    border-radius: 40px;
+    
+}
+.nav-item{
+    padding: 1rem;
+}
+
+.underline {
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    /* color: #FAF6F2; */
+    color: black;
+}
+
+hr{
+    height: 53px;
+    width: 325px ;
+    background-color:#683b2b ;
+    
+}
+
+
+
+
+
+
+
